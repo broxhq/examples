@@ -1,12 +1,12 @@
 {
   "name": "@brox/pdf-extractor",
-  "version": "0.1.0",
-  "description": "Extract structured text and tables from PDF files.",
+  "version": "0.2.0",
+  "description": "Extract text from PDF files. Supports page ranges and JSON output. Pure Python, no system dependencies.",
   "license": "MIT",
   "author": "Brox Team <hello@brox.dev>",
-  "homepage": "https://github.com/broxhq/examples",
+  "homepage": "https://github.com/broxhq/examples/tree/main/pdf-extractor",
   "agents": ["claude", "cursor", "any"],
   "entry": "SKILL.md",
   "permissions": ["fs:read", "exec"],
-  "keywords": ["pdf", "extraction", "documents", "text"]
+  "keywords": ["pdf", "extraction", "text", "documents"]
 }

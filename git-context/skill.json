@@ -1,0 +1,12 @@
+{
+  "name": "@brox/git-context",
+  "version": "0.1.0",
+  "description": "Give the agent fast situational awareness of a git repo: status, recent commits, current branch, diff summary, blame.",
+  "license": "MIT",
+  "author": "Brox Team <hello@brox.dev>",
+  "homepage": "https://github.com/broxhq/examples/tree/main/git-context",
+  "agents": ["claude", "cursor", "any"],
+  "entry": "SKILL.md",
+  "permissions": ["exec", "fs:read"],
+  "keywords": ["git", "context", "diff", "blame", "log", "repo"]
+}

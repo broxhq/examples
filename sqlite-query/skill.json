@@ -1,0 +1,12 @@
+{
+  "name": "@brox/sqlite-query",
+  "version": "0.1.0",
+  "description": "Inspect schema and run SQL queries against SQLite database files. Returns markdown tables or JSON. Python stdlib only.",
+  "license": "MIT",
+  "author": "Brox Team <hello@brox.dev>",
+  "homepage": "https://github.com/broxhq/examples/tree/main/sqlite-query",
+  "agents": ["claude", "cursor", "any"],
+  "entry": "SKILL.md",
+  "permissions": ["fs:read", "exec"],
+  "keywords": ["sqlite", "sql", "database", "query", "schema"]
+}
