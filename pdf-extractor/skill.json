@@ -1,0 +1,12 @@
+{
+  "name": "@brox/pdf-extractor",
+  "version": "0.1.0",
+  "description": "Extract structured text and tables from PDF files.",
+  "license": "MIT",
+  "author": "Brox Team <hello@brox.dev>",
+  "homepage": "https://github.com/broxhq/examples",
+  "agents": ["claude", "cursor", "any"],
+  "entry": "SKILL.md",
+  "permissions": ["fs:read", "exec"],
+  "keywords": ["pdf", "extraction", "documents", "text"]
+}
