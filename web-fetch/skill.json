@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Fetch a URL and return clean readable text. Strips HTML, scripts, styles. Python stdlib only — no dependencies.",
   "license": "MIT",
-  "author": "Brox Team <hello@brox.dev>",
+  "author": "Brox Team <hello@brox.sh>",
   "homepage": "https://github.com/broxhq/examples/tree/main/web-fetch",
   "agents": ["claude", "cursor", "any"],
   "entry": "SKILL.md",

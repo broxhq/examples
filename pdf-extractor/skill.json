@@ -3,7 +3,7 @@
   "version": "0.2.1",
   "description": "Extract text from PDF files. Supports page ranges and JSON output. Pure Python, no system dependencies.",
   "license": "MIT",
-  "author": "Brox Team <hello@brox.dev>",
+  "author": "Brox Team <hello@brox.sh>",
   "homepage": "https://github.com/broxhq/examples/tree/main/pdf-extractor",
   "agents": ["claude", "cursor", "any"],
   "entry": "SKILL.md",

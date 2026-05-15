@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Give the agent fast situational awareness of a git repo: status, recent commits, current branch, diff summary, blame.",
   "license": "MIT",
-  "author": "Brox Team <hello@brox.dev>",
+  "author": "Brox Team <hello@brox.sh>",
   "homepage": "https://github.com/broxhq/examples/tree/main/git-context",
   "agents": ["claude", "cursor", "any"],
   "entry": "SKILL.md",

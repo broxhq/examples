@@ -19,7 +19,7 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 
 
-USER_AGENT = "Mozilla/5.0 (compatible; brox-web-fetch/0.1; +https://brox.dev)"
+USER_AGENT = "Mozilla/5.0 (compatible; brox-web-fetch/0.1; +https://brox.sh)"
 DROP_TAGS = {"script", "style", "noscript", "iframe", "svg", "head", "nav", "footer", "aside"}
 BLOCK_TAGS = {"p", "div", "br", "li", "h1", "h2", "h3", "h4", "h5", "h6", "tr", "section", "article", "header"}
 
